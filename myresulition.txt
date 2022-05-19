@@ -1,4 +1,4 @@
 Resolusiku tahun 2022 :
 - konsisten belajar web programming
 - membuat project minimal 1x seminggu
-
+- mengerjakan 1 project untuk client
